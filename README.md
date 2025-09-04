@@ -19,3 +19,14 @@
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/nyx73/Catch-The-Ball.git
+
+# Demo 
+
+ # Home Page
+ <img src="https://github.com/user-attachments/assets/7d996445-3045-4aec-b92b-88458ce3c005" width="250"/>
+
+ # Level Selection 
+ <img src="https://github.com/user-attachments/assets/ab0475b3-b839-478f-8b03-6d19fe2131cb" width="250"/>
+
+ # Game Over
+ <img src="https://github.com/user-attachments/assets/50daf367-dd62-49fc-b77d-c68542b38429" width="250"/>
